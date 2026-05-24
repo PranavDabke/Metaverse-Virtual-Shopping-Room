@@ -19,10 +19,11 @@ A Unity-based metaverse virtual shopping environment featuring immersive 3D navi
 - Unity URP
 
 ## Demo Video
--in screenshot folder
+(https://drive.google.com/file/d/1ct1afgT-itSi6SOg5tAzyyzYf_7ZpitJ/view?usp=sharing)
 
 ## Screenshots
 -in screenhsot folder
+
 ## Project Structure
 
 - Assets
